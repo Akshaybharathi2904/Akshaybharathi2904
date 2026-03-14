@@ -80,3 +80,8 @@ AI based travel recommendation project
 ---
 
 ⭐ From [Akshaybharathi2904](https://github.com/Akshaybharathi2904)
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,github,vscode,express" />
+</p>
