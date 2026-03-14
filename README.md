@@ -85,3 +85,6 @@ AI based travel recommendation project
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,github,vscode,express" />
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Akshaybharathi2904&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
