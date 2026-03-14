@@ -35,6 +35,10 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,github,vscode,express,postman" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B;Python;JavaScript;React;NodeJS;MongoDB;Git;GitHub;VS+Code&center=true&width=500&height=40">
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -61,6 +65,12 @@
 
 ---
 
+## 📊 Contribution Graph
+
+![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshaybharathi2904\&theme=tokyo-night)
+
+---
+
 ## 📌 Projects
 
 🚀 **MedStock**
@@ -74,6 +84,12 @@ AI-based travel recommendation project
 ## 🌐 Connect With Me
 
 📧 Email: [akshaybharathi2007@gmail.com](mailto:akshaybharathi2007@gmail.com)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Akshaybharathi2904/Akshaybharathi2904/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
