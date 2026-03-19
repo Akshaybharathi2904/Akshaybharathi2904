@@ -24,7 +24,7 @@
 🚀 Currently working on:
 
 * College ERP System
-* AI Voice Assistant
+* Book Recommendation System
 * Travel Recommendation System
 
 ---
